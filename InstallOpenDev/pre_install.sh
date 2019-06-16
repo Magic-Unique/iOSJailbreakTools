@@ -12,5 +12,5 @@ mkdir "${iOSSDK}/PrivateFrameworks"
 iSimSDK="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/System/Library"
 mkdir "${iSimSDK}/PrivateFrameworks"
 
-mkdir "/Applications/Xcode/Content/Developer/Platforms/iPhoneSimulator.platform/Developer/usr"
-mkdir "/Applications/Xcode/Content/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin"
+mkdir "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr"
+mkdir "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin"
